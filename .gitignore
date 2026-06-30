@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+provenance_guard.db
+*.db
+.DS_Store
